@@ -1,10 +1,13 @@
-### Olá 👋
+### Olá, pessoal! 👋
 
-🌱 I’m currently learning PHP and Python. 
+🌱 Atualmente estou aprendendo PHP e Python. 
 
-![dekomontes's stats](https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte)](https://github.com/dekomonte/github-readme-stats)
+<div>
+<a href="https://github.com/dekomonte">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
 <!--
 **dekomonte/dekomonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
