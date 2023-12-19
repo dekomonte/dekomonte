@@ -1,6 +1,9 @@
 ### Olá, pessoal! 👋
 
 🌱 Atualmente estou aprendendo PHP e Python. 
+:sunglasses: Engenharia Mecatrônica na Universidade de Brasília. 
+:computer: Estagiária de Análise e Desenvolvimento de Sistemas.
+:video_game: A pior gamer de todos. 
 
 <div>
 <a href="https://github.com/dekomonte">
