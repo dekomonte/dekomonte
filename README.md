@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning PHP and Python. 
 
-![dekomontes's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![dekomontes's stats](https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=dracula)
 <!--
 **dekomonte/dekomonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
