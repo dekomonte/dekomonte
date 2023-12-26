@@ -1,6 +1,6 @@
 ### Olá, pessoal! 👋
 
-:books: Atualmente estou aprendendo PHP e Python. <br/>
+:books: Aprendendo PHP e Python. <br/>
 :sunglasses: Engenharia Mecatrônica na Universidade de Brasília. <br/>
 :computer: Estagiária de Análise e Desenvolvimento de Sistemas. <br/>
 :video_game: A pior gamer de todos. <br/>
