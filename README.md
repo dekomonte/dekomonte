@@ -5,6 +5,8 @@
 :computer: Estagiária de Análise e Desenvolvimento de Sistemas. <br/>
 :video_game: A pior gamer de todos. <br/>
 
+Olha a minha [página](https://dekomonte.github.io/)! 😄
+
 <div>
 <a href="https://github.com/dekomonte">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&langs_count=7&theme=dark"/>
