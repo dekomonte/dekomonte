@@ -1,4 +1,4 @@
-### Olá, pessoal! 👋
+## Olá, pessoal! 👋
 
 :books: Aprendendo PHP e Python. <br/>
 :sunglasses: Engenharia Mecatrônica na Universidade de Brasília. <br/>
