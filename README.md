@@ -1,14 +1,13 @@
-## Olá, pessoal! 👋
+## Olá, pessoal! 👋:sunglasses:
 
-:books: Aprendendo. <br/>
-:sunglasses: Engenharia Mecatrônica na Universidade de Brasília. <br/>
+:books: Engenharia Mecatrônica na Universidade de Brasília. <br/>
 :computer: Estagiária de Análise e Desenvolvimento de Sistemas. <br/>
 :video_game: A pior gamer de todas. <br/>
 
 Dê uma olhada na minha [página](https://dekomonte.github.io/)! 😄
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dekomonte&theme=darkhub&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dekomonte&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Páginas:</h3>
 <p align="left">
