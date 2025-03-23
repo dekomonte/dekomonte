@@ -7,7 +7,7 @@
 
 Dê uma olhada na minha [página](https://dekomonte.github.io/)! 😄
 
-![](https://komarev.com/ghpvc/?username=dekomonte)
+![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
 <h3 align="left">Páginas:</h3>
 <p align="left">
