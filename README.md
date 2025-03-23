@@ -58,7 +58,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
 
   <!-- Análise de Dados e Visualização -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
@@ -91,15 +91,12 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/ESP32_Logo.svg" alt="esp32" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png" alt="esp32" width="40" height="40"/>
   </a>
 
   <!-- Softwares Técnicos -->
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Simulink_Logo.png" alt="simulink" width="40" height="40"/>
   </a>
 </p>
 
