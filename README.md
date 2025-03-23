@@ -61,7 +61,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
 
   <!-- Ferramentas e Ambientes de Desenvolvimento -->
