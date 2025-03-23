@@ -11,7 +11,7 @@ Dê uma olhada na minha [página](https://dekomonte.github.io/)! 😄
 <a href="https://github.com/dekomonte">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dekomonte&" alt="dekomonte" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
   
 <!--
