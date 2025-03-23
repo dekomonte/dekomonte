@@ -1,12 +1,9 @@
 # Olá, pessoal! 👋
 
-Sou **Andressa Sena**, estudante de **Engenharia Mecatrônica** na Universidade de Brasília e apaixonada por tecnologia, automação e desenvolvimento de software. 🚀  
+## Sobre
+Estudante de Engenharia de Controle e Automação na Universidade de Brasília com experiência em desenvolvimento de software, integração e análise de dados. Atuei em projetos de sistemas embarcados, automação predial e deep learning. Tenho prática no uso de linguagens como **Python** e **PHP**, além de ferramentas como **Git** e **MySQL**.
 
-Atualmente, sou **Estagiária de Análise e Desenvolvimento de Sistemas** e desenvolvo projetos em **automação predial** e **inteligência computacional**. Também já atuei com sistemas embarcados e análise de dados.  
-
-🎮 A pior gamer de todas, mas persisto!  
-👩‍💻 Explorando tecnologias e novas soluções.  
-🔗 Dê uma olhada na minha [página pessoal](https://dekomonte.github.io/)! 😄  
+🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)! 😄
 
 ---
 
