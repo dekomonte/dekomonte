@@ -1,6 +1,6 @@
 # Olá, pessoal! 👋
 
-## Sobre
+## 👩🏻‍💻 Sobre 
 Estudante de Engenharia de Controle e Automação na Universidade de Brasília com experiência em desenvolvimento de software, integração e análise de dados. Atuei em projetos de sistemas embarcados, automação predial e deep learning. Tenho prática no uso de linguagens como **Python** e **PHP**, além de ferramentas como **Git** e **MySQL**.
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)! 😄
