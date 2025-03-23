@@ -7,7 +7,7 @@
 
 Dê uma olhada na minha [página](https://dekomonte.github.io/)! 😄
 
-![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dekomonte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Páginas:</h3>
