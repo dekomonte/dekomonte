@@ -1,13 +1,15 @@
 ## Olá, pessoal! 👋
 
-:books: Aprendendo PHP e Python. <br/>
+:books: Aprendendo. <br/>
 :sunglasses: Engenharia Mecatrônica na Universidade de Brasília. <br/>
 :computer: Estagiária de Análise e Desenvolvimento de Sistemas. <br/>
 :video_game: A pior gamer de todas. <br/>
 
 Dê uma olhada na minha [página](https://dekomonte.github.io/)! 😄
 
-<h3 align="left">Onde me encontrar:</h3>
+![](https://komarev.com/ghpvc/?username=dekomonte)
+
+<h3 align="left">Páginas:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andressa-sena-a8b26620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressa-sena-a8b26620b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dekomonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dekomonte" height="30" width="40" /></a>
