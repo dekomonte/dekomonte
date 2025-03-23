@@ -1,4 +1,4 @@
-## Olá, pessoal! 👋:sunglasses:
+## Olá, pessoal! 👋
 
 :books: Engenharia Mecatrônica na Universidade de Brasília. <br/>
 :computer: Estagiária de Análise e Desenvolvimento de Sistemas. <br/>
