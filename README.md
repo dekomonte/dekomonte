@@ -12,7 +12,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
 
 <p align="left">
   <!-- Linguagens de Programação -->
-  <h3>⚙️ Linguagens de Programação</h3>
+  <h3>Linguagens de Programação</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -39,7 +39,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Front-end -->
-  <h3>💾 Front-end</h3>
+  <h3>Front-end</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -51,7 +51,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Banco de Dados -->
-  <h3>📂 Banco de Dados</h3>
+  <h3>Banco de Dados</h3>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -60,7 +60,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Análise de Dados e Visualização -->
-  <h3>📊 Análise de Dados e Visualização</h3>
+  <h3>Análise de Dados e Visualização</h3>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
   </a>
@@ -69,7 +69,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Sistemas Operacionais -->
-  <h3>💻 Sistemas Operacionais</h3>
+  <h3>Sistemas Operacionais</h3>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/>
   </a>
