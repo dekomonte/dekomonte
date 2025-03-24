@@ -12,6 +12,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
 
 <p align="left">
   <!-- Linguagens de Programação -->
+  <h3>⚙️ Linguagens de Programação</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -38,6 +39,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Front-end -->
+  <h3>💾 Front-end</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -49,6 +51,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Banco de Dados -->
+  <h3>📂 Banco de Dados</h3>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -57,6 +60,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
   </a>
 
   <!-- Análise de Dados e Visualização -->
+  <h3>📊 Análise de Dados e Visualização</h3>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
   </a>
@@ -64,39 +68,13 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
 
-  <!-- Ferramentas e Ambientes de Desenvolvimento -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-
   <!-- Sistemas Operacionais -->
+  <h3>💻 Sistemas Operacionais</h3>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <!-- Microcontroladores e Eletrônica -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png" alt="esp32" width="40" height="40"/>
-  </a>
-
-  <!-- Softwares Técnicos -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
 </p>
 
