@@ -121,7 +121,7 @@ Estudante de Engenharia de Controle e Automação na Universidade de Brasília c
     <img src="https://img.shields.io/badge/-Codeforces-%231c1c1c?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/116785" target="_blank">
-    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDE2MCAyNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjE2MCIgaGVpZ2h0PSIyNTAiIGZpbGw9IiM0RTRFNEUiLz48L3N2Zz4=" />
+    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/dekomonte/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
