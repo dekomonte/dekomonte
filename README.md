@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Sobre 
 
-Estudante de Engenharia de Controle e Automação na Universidade de Brasília com experiência em desenvolvimento de software, integração e análise de dados. Atuei em projetos de sistemas embarcados, automação predial e deep learning. Tenho prática no uso de linguagens como **Python** e **PHP**, além de ferramentas como **Git** e **MySQL**.
+Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília (UnB), com experiência em desenvolvimento de software, automação de processos e análise de dados. Atuei em projetos profissionais e acadêmicos utilizando tecnologias como Python, PHP, Node.js, MySQL, MongoDB, Docker e frameworks como Laravel. Possuo interesse especial por back-end. Atualmente trabalho como estagiária de desenvolvimento, e paralelamente desenvolvo projetos pessoais para aprofundar meus conhecimentos em frameworks modernos e DevOps.
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)! (Em andamento...)😄
 
