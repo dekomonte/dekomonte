@@ -126,9 +126,9 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   <a href="https://atcoder.jp/users/dekomonte" target="_blank">
     <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
-  <a href="https://exercism.org/profiles/dekomonte" target="_blank">
+<!--   <a href="https://exercism.org/profiles/dekomonte" target="_blank">
     <img src="https://img.shields.io/badge/-Exercism-%235A0FC8?style=for-the-badge&logo=exercism&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
