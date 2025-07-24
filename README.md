@@ -8,6 +8,33 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 
 ---
 
+## 🌎 Conecte-se comigo  
+
+<p align="center">
+  <a href="https://linkedin.com/in/andressa-sena-a8b26620b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/dekomonte" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-%2329b53d?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/dekomonte" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-%231c1c1c?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/116785" target="_blank">
+    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" />
+  </a>
+<!--   <a href="https://leetcode.com/dekomonte/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a> -->
+  <a href="https://atcoder.jp/users/dekomonte" target="_blank">
+    <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+<!--   <a href="https://exercism.org/profiles/dekomonte" target="_blank">
+    <img src="https://img.shields.io/badge/-Exercism-%235A0FC8?style=for-the-badge&logo=exercism&logoColor=white" />
+  </a> -->
+</p>
+
+---
 ## 🚀 Tecnologias e Ferramentas  
 
 ### 🖥️ Linguagens de Programação
@@ -49,7 +76,6 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
-
 
 ---
 
