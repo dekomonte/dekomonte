@@ -57,7 +57,6 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 ---
 
 <!--Github stats Table--> 
-<!--Github stats Table--> 
 <h2 align="center">📊 Estatísticas do GitHub 📊</h2>
 
 <table width="100%">
@@ -65,9 +64,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     <td width="50%">
       <h3 align="center"><strong>Estatísticas Gerais</strong></h3>
       <p align="center">
-        <a href="https://github.com/dekomonte">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dekomonte&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=meta-dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
       </p>
     </td>
     <td width="50%">
@@ -104,9 +101,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     </picture>
   </a>
 </p>
-
 <br />
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
