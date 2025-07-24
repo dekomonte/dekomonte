@@ -56,14 +56,41 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 
 ---
 
-## 📈 Estatísticas do GitHub
+<!--Github stats Table--> 
+<!--Github stats Table--> 
+<h2 align="center">📊 Estatísticas do GitHub 📊</h2>
 
-<p align="center"> <strong>📊 Linguagens mais utilizadas</strong><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&langs_count=7&theme=dark&locale=pt-br" alt="Linguagens mais usadas" /></p> 
-
-<p align="center"> <strong>📈 Visão geral de contribuições</strong><br> <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" /></p> 
-
-<p align="center"> <strong>🔥 Dias seguidos contribuindo</strong><br> <img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=dark&locale=pt_BR" alt="Contribuições" /></p>
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Estatísticas Gerais</strong></h3>
+      <p align="center">
+        <a href="https://github.com/dekomonte">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dekomonte&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Contribuições Recentes</strong></h3>
+      <p align="center">
+        <a href="https://github.com/dekomonte">
+          <img align="center" src="https://streak-stats.demolab.com?user=dekomonte&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><strong>Principais Contribuições</strong></h3>
+      <p align="center">
+        <a href="https://github.com/dekomonte">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=dekomonte&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
 ---
 <!-- 🏆 Troféus e Conquistas -->
 <h2 align="center">🏆 Troféus e Conquistas do GitHub 🏆</h2>
