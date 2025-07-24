@@ -85,7 +85,6 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     </td>
   </tr>
 </table>
-<br/>
 
 <!-- 🏆 Troféus e Conquistas -->
 <h2 align="center">🏆 Troféus e Conquistas do GitHub 🏆</h2>
@@ -93,14 +92,10 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 <p align="center">
   <a href="https://github.com/dekomonte">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dekomonte&theme=flat&row=2&column=6&margin-w=20&margin-h=20&no-frame=true&no-bg=false" />
     </picture>
   </a>
 </p>
-<br />
-
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
