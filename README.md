@@ -62,26 +62,24 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Estatísticas Gerais</strong></h3>
+      <h3 align="center"><strong>Contribuições</strong></h3>
       <p align="center">
        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=meta-dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Contribuições Recentes</strong></h3>
+      <h3 align="center"><strong>Estatísicas Gerais</strong></h3>
       <p align="center">
-        <a href="https://github.com/dekomonte">
-          <img align="center" src="https://streak-stats.demolab.com?user=dekomonte&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=meta-dark&locale=pt_BR" alt="GitHub Stats" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center"><strong>Principais Contribuições</strong></h3>
+      <h3 align="center"><strong>Linguagens</strong></h3>
       <p align="center">
-        <a href="https://github.com/dekomonte">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=dekomonte&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        <a href="https://github.com/dekomonte/convoychat">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dekomonte&layout=compact&langs_count=8&card_width=320&theme=meta-dark&locale=pt_BR" />
         </a>
       </p>
     </td>
