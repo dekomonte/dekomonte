@@ -62,13 +62,13 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Contribuições</strong></h3>
+<!--       <h3 align="center"><strong>Contribuições</strong></h3> -->
       <p align="center">
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=meta-dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=meta-light&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Estatísicas Gerais</strong></h3>
+<!--       <h3 align="center"><strong>Estatísicas Gerais</strong></h3> -->
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=meta-dark" alt="GitHub Stats" />
       </p>
@@ -76,7 +76,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center"><strong>Linguagens</strong></h3>
+<!--       <h3 align="center"><strong>Linguagens</strong></h3> -->
       <p align="center">
         <a href="https://github.com/dekomonte/convoychat">
           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dekomonte&layout=compact&langs_count=8&card_width=320&theme=meta-dark" alt="GitHub Stats"/>
@@ -94,7 +94,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   <a href="https://github.com/dekomonte">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dekomonte&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
