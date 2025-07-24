@@ -23,9 +23,9 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   <a href="https://www.beecrowd.com.br/judge/pt/profile/116785" target="_blank">
     <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" />
   </a>
-<!--   <a href="https://leetcode.com/dekomonte/" target="_blank">
+  <a href="https://leetcode.com/dekomonte/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a> -->
+  </a>
   <a href="https://atcoder.jp/users/dekomonte" target="_blank">
     <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
