@@ -70,7 +70,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     <td width="50%">
       <h3 align="center"><strong>Estatísicas Gerais</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=meta-dark&locale=pt_BR" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=meta-dark" alt="GitHub Stats" />
       </p>
     </td>
   </tr>
@@ -79,7 +79,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
       <h3 align="center"><strong>Linguagens</strong></h3>
       <p align="center">
         <a href="https://github.com/dekomonte/convoychat">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dekomonte&layout=compact&langs_count=8&card_width=320&theme=meta-dark&locale=pt_BR" />
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dekomonte&layout=compact&langs_count=8&card_width=320&theme=meta-dark" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
