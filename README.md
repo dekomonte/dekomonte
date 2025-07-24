@@ -86,7 +86,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   </tr>
 </table>
 <br/>
----
+
 <!-- 🏆 Troféus e Conquistas -->
 <h2 align="center">🏆 Troféus e Conquistas do GitHub 🏆</h2>
 
@@ -100,7 +100,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
   </a>
 </p>
 <br />
----
+
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
