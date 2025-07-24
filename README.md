@@ -37,27 +37,22 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 ---
 ## 🚀 Tecnologias e Ferramentas  
 
-<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-
-<a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="24" height="24" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="32" height="32" style="vertical-align:middle; margin-left:8px;"/></a>
 
 ---
 
