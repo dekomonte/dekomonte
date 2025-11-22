@@ -99,7 +99,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     <td width="50%">
 <!--       <h3 align="center"><strong>Estatísicas Gerais</strong></h3> -->
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=meta-dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark&show_icons=true" alt="GitHub Stats" />
       </p>
     </td>
   </tr>
