@@ -108,7 +108,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 <!--       <h3 align="center"><strong>Linguagens</strong></h3> -->
       <p align="center">
         <a href="https://github.com/dekomonte/convoychat">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte" alt="GitHub Stats"/>
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
