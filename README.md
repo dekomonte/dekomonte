@@ -85,46 +85,5 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 
 ---
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Estatísticas do GitHub 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-<!--       <h3 align="center"><strong>Contribuições</strong></h3> -->
-      <p align="center">
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dekomonte&theme=meta-light&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-      </p>
-    </td>
-    <td width="50%">
-<!--       <h3 align="center"><strong>Estatísicas Gerais</strong></h3> -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=default&show_icons=true" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-<!--       <h3 align="center"><strong>Linguagens</strong></h3> -->
-      <p align="center">
-        <a href="https://github.com/dekomonte/convoychat">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact" alt="GitHub Stats"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- 🏆 Troféus e Conquistas -->
-<!-- <h2 align="center">🏆 Troféus e Conquistas do GitHub 🏆</h2>
-
-<p align="center">
-  <a href="https://github.com/dekomonte">
-    <picture>
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dekomonte&theme=flat&row=2&column=6&margin-w=20&margin-h=20&no-frame=true&no-bg=false" />
-    </picture>
-  </a>
-</p> -->
-
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
