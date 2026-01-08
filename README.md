@@ -38,7 +38,7 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
 
 ## 🚀 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dekomonte&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dekomonte)](https://git.io/streak-stats)
 
 ---
 
