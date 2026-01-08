@@ -2,9 +2,9 @@
 
 ## 👩🏻‍💻 Sobre 
 
-Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília (UnB), com experiência em desenvolvimento de software, automação de processos e análise de dados. Atuei em projetos profissionais e acadêmicos utilizando tecnologias como Python, PHP, Node.js, MySQL, MongoDB, Docker, Laravel entre outros. Possuo interesse especial por back-end. Atualmente trabalho como estagiária de desenvolvimento, e paralelamente desenvolvo projetos pessoais para aprofundar meus conhecimentos em frameworks modernos e DevOps.
+Desenvolvedora back-end em formação e graduanda em Engenharia de Controle e Automação (UnB). Atua no desenvolvimento de APIs, automação de processos e aplicações orientadas a dados, utilizando Node.js, PHP/Laravel, Python, bancos de dados relacionais e NoSQL, além de Docker. Possui interesse em arquitetura de sistemas, boas práticas de back-end e DevOps. Atualmente atua como estagiária de desenvolvimento e mantém projetos pessoais para aprofundamento técnico.
 
-🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)! (Em andamento...)😄
+🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
 ---
 
@@ -33,12 +33,6 @@ Graduanda em Engenharia de Controle e Automação pela Universidade de Brasília
     <img src="https://img.shields.io/badge/-Exercism-%235A0FC8?style=for-the-badge&logo=exercism&logoColor=white" />
   </a> -->
 </p>
-
----
-
-## 🚀 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dekomonte)](https://git.io/streak-stats)
 
 ---
 
