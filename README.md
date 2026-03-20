@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Sobre 
 
-Desenvolvedora back-end em formação e graduanda em Engenharia de Controle e Automação (UnB). Atua no desenvolvimento de APIs, automação de processos e aplicações orientadas a dados, utilizando Node.js, PHP/Laravel, Python, bancos de dados relacionais e NoSQL, além de Docker. Possui interesse em arquitetura de sistemas, boas práticas de back-end e DevOps. Atualmente atua como desenvolvedora e mantém projetos pessoais para aprofundamento técnico.
+Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (UnB). Atuo no desenvolvimento de APIs e automação de processos utilizando Python e bancos de dados relacionais. Possuo interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
