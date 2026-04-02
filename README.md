@@ -61,7 +61,7 @@ Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (Un
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekomonte)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekomonte) -->
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
