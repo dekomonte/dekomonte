@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Sobre 
 
-Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (UnB). Atuo no desenvolvimento de APIs e automação de processos utilizando Python e bancos de dados relacionais. Possuo interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
+Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (UnB). Atuo no desenvolvimento de automação de processos utilizando Python e bancos de dados relacionais. Possuo interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
