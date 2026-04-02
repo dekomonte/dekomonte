@@ -59,6 +59,9 @@ Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (Un
   <img src="https://streak-stats.demolab.com?user=dekomonte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+---
+
+![](https://github-readme-stats.vercel.app/api?username=dekomonte)
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
