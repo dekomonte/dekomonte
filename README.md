@@ -48,7 +48,7 @@ Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (Un
       <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td>
+      <!-- <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td> -->
     </tr>
   </table>
 </div>
@@ -60,8 +60,6 @@ Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (Un
 </div>
 
 ---
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekomonte) -->
 
 ![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
 
