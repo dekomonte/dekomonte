@@ -56,9 +56,9 @@ Tenho forte interesse em arquitetura de sistemas, boas práticas de back-end, De
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dekomonte&locale=en&mode=daily&background=121212&ring=42b883&fire=42b883&curr_streak=ffffff&text=ffffff" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=dekomonte&locale=en&mode=daily&theme=tokyonight&fire=42b883&ring=42b883" height="180" alt="streak graph" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=react-dark&color=42b883&bg_color=121212&point=ffffff" width="100%" alt="dekomontes's github activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=tokyonight&color=42b883&bg_color=1a1b26&point=ffffff" width="100%" alt="dekomontes's github activity graph" />
 </p>
 
 ---
