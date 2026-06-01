@@ -1,8 +1,12 @@
-# Olá, pessoal! 👋
+# Olá, pessoal! 👋  Meu nome é Andressa.
 
 ## 👩🏻‍💻 Sobre 
 
-Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (UnB). Atuo no desenvolvimento de automação de processos utilizando Python (Flask) e bancos de dados relacionais. Possuo interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
+Desenvolvedora Fullstack e graduanda em Engenharia de Controle e Automação (UnB). 
+
+Atuo no desenvolvimento de automação de processos utilizando Python (Flask) e bancos de dados relacionais.  
+
+Tenho forte interesse em arquitetura de sistemas, boas práticas de back-end, DevOps e sou entusiasta de programação competitiva. 
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
@@ -29,38 +33,27 @@ Desenvolvedora fullstack e graduanda em Engenharia de Controle e Automação (Un
   <a href="https://atcoder.jp/users/dekomonte" target="_blank">
     <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
-<!--   <a href="https://exercism.org/profiles/dekomonte" target="_blank">
-    <img src="https://img.shields.io/badge/-Exercism-%235A0FC8?style=for-the-badge&logo=exercism&logoColor=white" />
-  </a> -->
 </p>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td> -->
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-      <!-- <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code></td -->
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-      <!-- <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td> -->
-      <!-- <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td> -->
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dekomonte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-![dekomontes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=merko)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dekomonte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=merko" width="100%" alt="dekomontes's github activity graph" />
+</p>
 
 ---
 
