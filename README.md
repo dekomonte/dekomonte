@@ -1,12 +1,12 @@
-# Olá, pessoal! 👋  Meu nome é Andressa.
-
-## 👩🏻‍💻 Sobre 
+# 👩🏻‍💻 Olá, pessoal! Meu nome é Andressa.
 
 Desenvolvedora Fullstack e graduanda em Engenharia de Controle e Automação (UnB). 
 
 Atuo no desenvolvimento de automação de processos utilizando Python (Flask) e bancos de dados relacionais.  
 
-Tenho forte interesse em arquitetura de sistemas, boas práticas de back-end, DevOps e sou entusiasta de programação competitiva. 
+Tenho interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
+
+Entusiasta de programação competitiva. 
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
@@ -36,19 +36,16 @@ Tenho forte interesse em arquitetura de sistemas, boas práticas de back-end, De
 
 ## 🚀 Tecnologias e Ferramentas  
 
-### Desenvolvimento Back-end & Engenharia
+### Desenvolvimento Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino" title="Arduino" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" height="60" alt="MATLAB" title="MATLAB" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
 
 ### DevOps & Infraestrutura
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" title="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx" title="Nginx" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
 </p>
