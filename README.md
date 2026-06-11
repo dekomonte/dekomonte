@@ -72,8 +72,8 @@ Entusiasta de programação competitiva.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=radical&include_all_commits=true" alt="Andressa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte" alt="Andressa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte" alt="Top Langs" />
 </p>
 
 <p align="center">
