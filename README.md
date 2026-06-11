@@ -62,8 +62,11 @@ Entusiasta de programação competitiva.
 ## 📌 Repositórios em Destaque
 
 <p align="center">
-  <a href="https://github.com/dekomonte/criando-apis-com-nodejs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=criando-apis-com-nodejs&theme=radical" alt="Destaque Repositório" />
+  <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb" alt="Destaque Repositório" />
+  </a>
+   <a href="https://github.com/dekomonte/Referencias_Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python" alt="Destaque Repositório" />
   </a>
 </p>
 
