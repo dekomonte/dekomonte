@@ -76,7 +76,7 @@ Entusiasta de programação competitiva.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekomonte" alt="Andressa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
