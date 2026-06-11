@@ -66,7 +66,7 @@ Entusiasta de programação competitiva.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb" alt="Destaque Repositório" />
   </a>
    <a href="https://github.com/dekomonte/Referencias_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python" alt="Destaque Repositório" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&hide=jupyter%20notebook" alt="Destaque Repositório" />
   </a>
 </p>
 
