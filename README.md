@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Controle+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;" alt="Typing SVG" />
+</p>
+
 # 👩🏻‍💻 Olá, pessoal! Meu nome é Andressa.
 
 Desenvolvedora Fullstack e graduanda em Engenharia de Controle e Automação (UnB). 
@@ -10,29 +14,32 @@ Entusiasta de programação competitiva.
 
 🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
 
+---
 
 ## 🌎 Conecte-se comigo  
 
 <p align="center">
   <a href="https://linkedin.com/in/andressa-sena-a8b26620b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/dekomonte" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-%2329b53d?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HackerRank-%2329b53d?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://codeforces.com/profile/dekomonte" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-%231c1c1c?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Codeforces-%231c1c1c?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/116785" target="_blank">
-    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" alt="Beecrowd" />
   </a>
   <a href="https://leetcode.com/dekomonte/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://atcoder.jp/users/dekomonte" target="_blank">
-    <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AtCoder-%230066cc?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
   </a>
 </p>
+
+---
 
 ## 🚀 Tecnologias e Ferramentas  
 
@@ -50,15 +57,33 @@ Entusiasta de programação competitiva.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
 </p>
 
-## 📊 Estatísticas
+---
+
+## 📌 Repositórios em Destaque
 
 <p align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=dekomonte" height="180" alt="streak graph" />
-  <br><br> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomontes's github activity graph" />
+  <a href="https://github.com/dekomonte/criando-apis-com-nodejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=criando-apis-com-nodejs&theme=radical" alt="Destaque Repositório" />
+  </a>
 </p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen)
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&show_icons=true&theme=radical&include_all_commits=true" alt="Andressa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/dekomonte/criando-apis-com-nodejs?label=%C3%9Altimo%20Commit" alt="Last Commit">
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
+</p>
