@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Controle+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Controle+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Olá, pessoal! Meu nome é Andressa.
@@ -63,10 +63,10 @@ Entusiasta de programação competitiva.
 
 <p align="center">
   <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=shadow_green" alt="Destaque Repositório" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=dark" alt="Destaque Repositório" />
   </a>
    <a href="https://github.com/dekomonte/Referencias_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=shadow_green" alt="Destaque Repositório" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=dark" alt="Destaque Repositório" />
   </a>
 </p>
 
@@ -75,8 +75,8 @@ Entusiasta de programação competitiva.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=shadow_green" alt="Andressa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter%20notebook&theme=shadow_green" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter%20notebook&theme=dark" alt="Top Langs" />
 </p>
 
 <p align="center">
