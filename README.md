@@ -86,7 +86,5 @@ Entusiasta de programação competitiva.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/dekomonte/criando-apis-com-nodejs?label=%C3%9Altimo%20Commit" alt="Last Commit">
-  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
 </p>
