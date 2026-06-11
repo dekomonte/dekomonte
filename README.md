@@ -16,7 +16,7 @@ Entusiasta de programação competitiva.
 
 ---
 
-## 🌎 Conecte-se comigo  
+### 🌎 Conecte-se comigo  
 
 <p align="center">
   <a href="https://linkedin.com/in/andressa-sena-a8b26620b" target="_blank">
@@ -41,9 +41,9 @@ Entusiasta de programação competitiva.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+### 🚀 Tecnologias e Ferramentas  
 
-### Desenvolvimento Back-end
+#### Desenvolvimento Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
@@ -51,7 +51,7 @@ Entusiasta de programação competitiva.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
 
-### DevOps & Infraestrutura
+#### DevOps & Infraestrutura
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx" title="Nginx" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
@@ -59,20 +59,7 @@ Entusiasta de programação competitiva.
 
 ---
 
-## 📌 Repositórios em Destaque
-
-<p align="center">
-  <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=dark" alt="Destaque Repositório" />
-  </a>
-   <a href="https://github.com/dekomonte/Referencias_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=dark" alt="Destaque Repositório" />
-  </a>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" />
@@ -85,6 +72,19 @@ Entusiasta de programação competitiva.
 
 ---
 
+### 📌 Repositórios em Destaque
+
 <p align="center">
+  <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=dark" alt="Destaque Repositório" />
+  </a>
+   <a href="https://github.com/dekomonte/Referencias_Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=dark" alt="Destaque Repositório" />
+  </a>
+</p>
+
+---
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
 </p>
