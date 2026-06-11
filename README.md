@@ -63,10 +63,10 @@ Entusiasta de programação competitiva.
 
 <p align="center">
   <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb" alt="Destaque Repositório" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=shadow_green" alt="Destaque Repositório" />
   </a>
    <a href="https://github.com/dekomonte/Referencias_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&hide=jupyter%20notebook" alt="Destaque Repositório" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=shadow_green" alt="Destaque Repositório" />
   </a>
 </p>
 
@@ -75,8 +75,8 @@ Entusiasta de programação competitiva.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte" alt="Andressa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=shadow_green" alt="Andressa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter%20notebook&theme=shadow_green" alt="Top Langs" />
 </p>
 
 <p align="center">
