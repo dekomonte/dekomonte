@@ -46,7 +46,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 #### Back-end Development
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
