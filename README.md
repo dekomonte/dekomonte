@@ -1,22 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;Competitive+Programming+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Hi everyone! I'm Andressa.
 
-Fullstack Software Developer and Mechatronics Engineering student at Universidade de Brasília (UnB), located in the capital of Brasil. 
+Fullstack Software Developer and Mechatronics Engineering student at the University of Brasília (UnB), located in the capital of Brasil. 
 
-Atuo no desenvolvimento de automação de processos utilizando Python (Flask) e bancos de dados relacionais.  
+I focus on developing process automation using Python (Flask) and relational databases. 
 
-Tenho interesse em arquitetura de sistemas, boas práticas de back-end e DevOps.
+**Main Interests:** System Architecture, Back-end Best Practices, DevOps and Competitive Programming.
 
-Entusiasta de programação competitiva. 
+🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
 
-🔗 Confira a minha [página pessoal](https://dekomonte.github.io/)!
-
----
-
-### 🌎 Conecte-se comigo  
+### 🌎 Find me 
 
 <p align="center">
   <a href="https://linkedin.com/in/andressa-sena-a8b26620b" target="_blank">
@@ -39,11 +35,9 @@ Entusiasta de programação competitiva.
   </a>
 </p>
 
----
+### 🚀 Technologies 
 
-### 🚀 Tecnologias e Ferramentas  
-
-#### Desenvolvimento Back-end
+#### Back-end Development
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
@@ -51,15 +45,13 @@ Entusiasta de programação competitiva.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
 
-#### DevOps & Infraestrutura
+#### DevOps
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx" title="Nginx" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" />
@@ -70,9 +62,8 @@ Entusiasta de programação competitiva.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
 </p>
 
----
 
-### 📌 Repositórios em Destaque
+### 📌 Repositories
 
 <p align="center">
   <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
