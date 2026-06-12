@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Developer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Hi everyone! I'm Andressa.
