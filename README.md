@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;Competitive+Programming+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Hi everyone! I'm Andressa.
@@ -11,6 +11,8 @@ I focus on developing process automation using Python (Flask) and relational dat
 **Main Interests:** System Architecture, Back-end Best Practices, DevOps and Competitive Programming.
 
 🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
+
+---
 
 ### 🌎 Find me 
 
@@ -35,6 +37,8 @@ I focus on developing process automation using Python (Flask) and relational dat
   </a>
 </p>
 
+---
+
 ### 🚀 Technologies 
 
 #### Back-end Development
@@ -51,6 +55,8 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,6 +68,7 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
 </p>
 
+---
 
 ### 📌 Repositories
 
