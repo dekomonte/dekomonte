@@ -8,7 +8,9 @@ Fullstack Software Developer and Mechatronics Engineering student at the Univers
 
 I focus on developing process automation using Python (Flask) and relational databases. 
 
-**Main Interests:** System Architecture, Back-end Best Practices, DevOps and Competitive Programming.
+<!-- **Main Interests:** System Architecture, Back-end Best Practices, DevOps and Competitive Programming. -->
+
+**Main Interests:** Back-end Best Practices and Competitive Programming.
 
 🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
 
@@ -53,6 +55,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx" title="Nginx" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux" />
 </p>
 
 ---
