@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Engenharia+de+Controle+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=07ac22&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Mechatronics+Engineering;" alt="Typing SVG" />
 </p>
 
-# 👩🏻‍💻 Olá, pessoal! Meu nome é Andressa.
+# 👩🏻‍💻 Hi everyone! I'm Andressa.
 
-Desenvolvedora Fullstack e graduanda em Engenharia de Controle e Automação (UnB). 
+Fullstack Software Developer and Mechatronics Engineering student at Universidade de Brasília (UnB), located in the capital of Brasil. 
 
 Atuo no desenvolvimento de automação de processos utilizando Python (Flask) e bancos de dados relacionais.  
 
