@@ -8,8 +8,6 @@ Fullstack Software Developer and Mechatronics Engineering student at the Univers
 
 I focus on developing process automation using Python (Flask) and relational databases. 
 
-**Main Interests:** Back-end Best Practices and Competitive Programming.
-
 🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
 
 ---
@@ -26,9 +24,6 @@ I focus on developing process automation using Python (Flask) and relational dat
   <a href="https://codeforces.com/profile/dekomonte" target="_blank">
     <img src="https://img.shields.io/badge/-Codeforces-%231c1c1c?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <!-- <a href="https://www.beecrowd.com.br/judge/pt/profile/116785" target="_blank">
-    <img src="https://img.shields.io/badge/-Beecrowd-%234E4E4E?style=for-the-badge" alt="Beecrowd" />
-  </a> -->
   <a href="https://leetcode.com/dekomonte/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
@@ -56,8 +51,6 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux" />
 </p>
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
