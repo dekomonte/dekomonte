@@ -52,6 +52,10 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
+</p> 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
 </p>
