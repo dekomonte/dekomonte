@@ -74,7 +74,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 
 --- -->
 
-### 📌 Repositories
+<!-- ### 📌 Repositories
 
 <p align="center">
   <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
@@ -83,7 +83,7 @@ I focus on developing process automation using Python (Flask) and relational dat
    <a href="https://github.com/dekomonte/Referencias_Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=dark" alt="Destaque Repositório" />
   </a>
-</p>
+</p> -->
 
 ---
 
