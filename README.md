@@ -61,7 +61,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" height="180" />
@@ -70,9 +70,9 @@ I focus on developing process automation using Python (Flask) and relational dat
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
-</p>
+</p> 
 
----
+--- -->
 
 ### 📌 Repositories
 
