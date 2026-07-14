@@ -8,8 +8,6 @@ Fullstack Software Developer and Mechatronics Engineering student at the Univers
 
 I focus on developing process automation using Python (Flask) and relational databases. 
 
-<!-- **Main Interests:** System Architecture, Back-end Best Practices, DevOps and Competitive Programming. -->
-
 **Main Interests:** Back-end Best Practices and Competitive Programming.
 
 🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
@@ -58,32 +56,6 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux" />
 </p>
-
----
-
-<!-- ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter+notebook,blade&theme=dark" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
-</p> 
-
---- -->
-
-<!-- ### 📌 Repositories
-
-<p align="center">
-  <a href="https://github.com/dekomonte/csi-har-few_shot-unb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=csi-har-few_shot-unb&theme=dark" alt="Destaque Repositório" />
-  </a>
-   <a href="https://github.com/dekomonte/Referencias_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=Referencias_Python&theme=dark" alt="Destaque Repositório" />
-  </a>
-</p> -->
 
 ---
 
