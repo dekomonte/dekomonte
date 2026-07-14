@@ -64,8 +64,8 @@ I focus on developing process automation using Python (Flask) and relational dat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter%20notebook,blade&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekomonte&theme=dark" alt="Andressa's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekomonte&layout=compact&hide=jupyter+notebook,blade&theme=dark" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
