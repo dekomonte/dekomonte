@@ -44,14 +44,6 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
 
-#### DevOps
-<p align="center">
-  <!-- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx" title="Nginx" />&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" width="60" height="60" alt="Git" title="Git" />
-  <!-- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" /> -->
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" title="Linux" />
-</p>
-
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dekomonte&theme=github-compact" width="100%" alt="dekomonte's github activity graph" />
 </p>  -->
