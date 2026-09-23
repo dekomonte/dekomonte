@@ -43,17 +43,6 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
 
-## 📌 Repositórios em Destaque
-
-<div align="center">
-
-  <!-- Repositório do Casamento -->
-  <a href="https://github.com/dekomonte/wedding-page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dekomonte&repo=wedding-page&theme=dark" alt="Wedding Page Repo" />
-  </a>
-
-
-</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
