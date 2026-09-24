@@ -67,7 +67,7 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pm2/pm2-original.svg" width="40" height="40" alt="PM2" title="PM2" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" title="Gunicorn" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" title="Gunicorn" /> -->
 </p>
 
 
