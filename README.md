@@ -39,6 +39,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" title="Flask" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="60" height="60" alt="C" title="C" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" title="MySQL" />
 </p>
