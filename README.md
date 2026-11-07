@@ -80,23 +80,9 @@ I focus on developing process automation using Python (Flask) and relational dat
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dekomonte/dekomonte/output-3d-contrib/night.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dekomonte/dekomonte/output-3d-contrib/day.svg"
-    />
-    <img
-      alt="GitHub Profile 3D Contributions"
-      src="https://raw.githubusercontent.com/dekomonte/dekomonte/output-3d-contrib/day.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
+  <img
+    src="https://raw.githubusercontent.com/dekomonte/dekomonte/main/profile-3d-contrib/profile-green-animate.svg"
+    alt="GitHub Profile 3D Contributions"
+    width="100%"
+  />
 </p>
