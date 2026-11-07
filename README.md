@@ -74,13 +74,7 @@ I focus on developing process automation using Python (Flask) and relational dat
 
 ### 📊 GitHub Contributions
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/dekomonte/dekomonte/main/profile-3d-contrib/profile-gitblocks.svg"
-    alt="GitHub Profile 3D Contributions"
-    width="100%"
-  />
-</p>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dekomonte&color=brightgreen" alt="Profile Views" />
