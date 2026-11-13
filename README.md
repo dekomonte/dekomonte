@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=66FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Developer+%F0%9F%9A%80;Mechatronics+Engineering+Student+%F0%9F%A4%96;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=66FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Hi everyone! I'm Andressa.
 
-Fullstack Software Developer and Mechatronics Engineering student at the University of Brasília (UnB), located in the capital of Brasil. 
+#### Fullstack Software Developer | Mechatronics Engineering (UnB)
 
-I focus on developing process automation using Python (Flask) and relational databases. 
+I bridge the gap between engineering and software development. My core focus is solving complex through process automation, working primarily with Python, Flask, and relational databases.
 
-🔗 [Check out my personal page (PT-BR)](https://dekomonte.github.io/)!
+🔗 [Get to know more about my work on my personal page (PT-BR)](https://dekomonte.github.io/)!
 
 ---
 
@@ -39,18 +39,14 @@ I focus on developing process automation using Python (Flask) and relational dat
 **Linguagens**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-</p> -->
+
 
 **Frameworks & Web**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />&nbsp; -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" title="NestJS" />&nbsp;
@@ -67,7 +63,7 @@ I focus on developing process automation using Python (Flask) and relational dat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pm2/pm2-original.svg" width="40" height="40" alt="PM2" title="PM2" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" title="Gunicorn" /> -->
+
 </p>
 
 ---
