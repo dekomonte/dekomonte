@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=66FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Software+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=66FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Fullstack+Software+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
 </p>
 
 # 👩🏻‍💻 Hi everyone! I'm Andressa.
 
 #### Fullstack Software Developer | Mechatronics Engineering (UnB)
 
-I bridge the gap between engineering and software development. My core focus is solving complex through process automation, working primarily with Python, Flask, and relational databases.
+I bridge the gap between engineering and software development. My core focus is solving complex problems through process automation, working primarily with Python, Flask, and relational databases.
 
 🔗 [Get to know more about my work on my personal page (PT-BR)](https://dekomonte.github.io/)!
 
