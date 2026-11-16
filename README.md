@@ -41,14 +41,11 @@ I bridge the gap between engineering and software development. My core focus is 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
-  <!-- Adicione ícones de Javascript/TypeScript aqui se você for Fullstack -->
 </p>
 
 **Frameworks & Web**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;
-  <!-- Adicione ícones de HTML/CSS ou React/Vue aqui -->
 </p>
 
 **Databases & DevOps**
