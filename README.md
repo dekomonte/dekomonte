@@ -36,19 +36,21 @@ I bridge the gap between engineering and software development. My core focus is 
 
 ### 🚀 Technologies & Tools
 
-**Linguagens**
+**Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
-
+  <!-- Adicione ícones de Javascript/TypeScript aqui se você for Fullstack -->
+</p>
 
 **Frameworks & Web**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
+  <!-- Adicione ícones de HTML/CSS ou React/Vue aqui -->
 </p>
 
-**Bancos de Dados & DevOps**
+**Databases & DevOps**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" title="SQL Server" />&nbsp;
