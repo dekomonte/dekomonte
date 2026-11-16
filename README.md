@@ -47,6 +47,7 @@ I bridge the gap between engineering and software development. My core focus is 
 **Frameworks & Web**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;
   <!-- Adicione ícones de HTML/CSS ou React/Vue aqui -->
 </p>
 
